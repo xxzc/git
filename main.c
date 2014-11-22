@@ -1,5 +1,5 @@
 int main()
 {
-  puts("VER0.2\n");
+  puts("VER0.3\n");
   return 0;
 }
