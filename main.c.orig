@@ -1,7 +1,11 @@
 int main()
 {
+<<<<<<< HEAD
   puts("VER0.3 no right reserved\n");
   puts("  ");
+=======
+  puts("VER0.3\n");
   space();
+>>>>>>> m1
   return 0;
 }
